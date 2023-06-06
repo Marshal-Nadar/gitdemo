@@ -1,1 +1,5 @@
 level2.txt
+
+
+Git add + commit shourtcut
+git commit -am 'commit messages'
